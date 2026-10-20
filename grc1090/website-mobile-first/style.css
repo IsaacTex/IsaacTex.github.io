@@ -109,8 +109,7 @@ body {
 }
 
 main {
-	padding: 1.75em 1.75em;
-	margin-bottom: 0em;
+	margin: 1.75em;
 }
 
 img {
@@ -208,7 +207,7 @@ nav ul li a {
 
 
 p.slogan {
-	font-size: 4.2em;
+	font-size: 4.5em;
 	font-family: serif;
 	font-style: italic;
 	margin: .8em 0 2em;
