@@ -273,7 +273,7 @@ div.container main {
 article.about {
 	max-width: 40em;
 	background: rgb(60, 242, 245);
-	margin: 1em auto;	
+	margin: 1em auto;
 	margin-bottom: 4em;
 }
 
@@ -293,7 +293,7 @@ article.about {
 	nav ul li a {
 		font-size: 1.4em;
 		padding: 0.5em .5em .4em;
-	} 
+	}
 
 
 }
